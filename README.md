@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atifhayat24
 - 👀 I’m interested in Exploring Web Developement World
 - 🌱 I’m currently learning React js 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any web related project
 - 📫 How to reach me atifhayat.com
 
 <!---
