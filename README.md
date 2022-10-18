@@ -2,7 +2,7 @@
 - 👀 I’m interested in Exploring Web Developement World
 - 🌱 I’m currently learning React js 
 - 💞️ I’m looking to collaborate on any web related project
-- 📫 How to reach me atifhayat.com
+- 📫 Reach me atifhayat.com
 
 A ship in harbor is safe, but that is not what ships are built for.
 
